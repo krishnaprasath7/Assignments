@@ -1,1 +1,0 @@
-File>New>Project>Java>JavaProject>Next>GiveProjectName>Finish
